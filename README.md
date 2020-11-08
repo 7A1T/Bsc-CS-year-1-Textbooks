@@ -1,4 +1,4 @@
 hahah hi :)
 
-These are the books for CS
-There all pdf's
+These are the books for CS.
+They're all pdf's
